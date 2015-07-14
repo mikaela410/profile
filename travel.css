@@ -1,0 +1,32 @@
+img{
+  border-style: solid;
+  border-color: #0f292d;
+  border-width: 15px;
+  margin-left: 60px;
+}
+
+#name{
+  margin-left: 150px;
+}
+h4{
+    color: #118798;
+    font-weight: bold;
+    margin-left: 50px;
+
+}
+li{
+  color: #0a4c56;
+  margin-left: 50px;
+
+}
+h2{
+color: #118798;
+}
+body{
+  background-color: #BAC4C5
+}
+ul{
+  border-style: groove;
+  border-width: thick;
+  border-spacing: inherit;
+}
